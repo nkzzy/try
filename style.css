@@ -4,3 +4,16 @@
 #ko1{
     padding-top: 15px;
 }
+#div-1{
+    border-bottom:1px dashed #000; height:35px;width:370px;
+}
+.news{
+    color: mediumpurple;
+    display:inline;
+}
+#div-2{
+    border-bottom: 5px solid mediumpurple; height:50px; ;width:370px;
+}
+h4{
+    display: inline;
+}
